@@ -1,0 +1,74 @@
+﻿  house.cpp
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\shaderutils.h(20,1): warning C4996:  'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(516): message :  see declaration of 'open'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\shaderutils.h(23,1): warning C4996:  'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(503): message :  see declaration of 'lseek'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\shaderutils.h(24,1): warning C4996:  'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(459): message :  see declaration of 'close'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\shaderutils.h(43,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(67,18): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(78,23): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(79,24): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(155,21): warning C4244:  'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(256,29): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(278,15): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(330,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(368,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(391,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(401,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(406,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(412,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(418,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(441,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(458,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(512,30): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(539,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(540,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(546,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(547,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(555,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(556,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(561,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(562,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(622,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(628,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(630,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(632,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(634,23): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(642,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(647,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(649,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(651,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(653,23): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(663,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(670,19): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(672,21): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(683,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(690,19): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(692,21): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(704,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(705,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(709,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(710,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(714,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(715,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(719,26): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(720,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(724,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(725,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(734,30): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(756,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(759,22): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(765,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(767,22): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(773,29): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(775,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(780,30): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(782,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(787,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(789,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(794,29): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(796,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\CS370\CS370_Project\CS370_Project\CS370_Project\house.cpp(911,21): warning C4244:  'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+  CS370_Project.vcxproj -> C:\CS370\CS370_Project\CS370_Project\Debug\CS370_Project.exe
